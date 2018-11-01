@@ -1,1 +1,1 @@
-HI WELCOME
+HI WELCOME to my django project
